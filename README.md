@@ -21,4 +21,6 @@ Part 1 involves creating the automation given specific presets. Part 2 involves 
 
 ## Resources
 * Hello World app: https://hub.docker.com/_/hello-world
-*  external data source: 
+* external data source: 
+** https://151dd0e4-bd8b-453b-a01c-924e75053a8b.mock.pstmn.io/auth
+** https://151dd0e4-bd8b-453b-a01c-924e75053a8b.mock.pstmn.io/parameters
