@@ -9,7 +9,7 @@ The objective of this task is to create an automation, which authenticates again
 Part 1 involves creating the automation given specific presets. Part 2 involves critacally questioning the presets.
 
 ### 1.
-* Create a Bash script which retrieves the token for the external data source API, then retrieves PARAMETER1 and PARAMETER2. 
+* Create a Bash script which retrieves the token for the external data source API, then retrieves PARAMETER1 and PARAMETER2, passing the token via 'Authorization' http header. 
 * Create a docker container, ready to run this bash script.
 * Extend the Bash script to generate a plain kubernetes deployment yaml. The provided deployment must result in the container outputting "HELLO WORD , {parmater1} - {parmater1}" on startup, with the retrieved values of PARAMETER1 and PARAMETER2.
 
